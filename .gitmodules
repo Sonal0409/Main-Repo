@@ -1,0 +1,3 @@
+[submodule "sub-module-repo"]
+	path = sub-module-repo
+	url = https://github.com/Sonal0409/sub-module-repo.git
